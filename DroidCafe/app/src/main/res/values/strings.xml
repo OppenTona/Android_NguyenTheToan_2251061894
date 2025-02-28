@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Droid Cafe</string>
+    <string name="ice_cream_sandwiches" translatable="false">ánh sandwich kem có lớp bánh quy sô cô la và nhân kem vani</string>
+    <string name="droid_desserts" translatable="false">Droid Desserts</string>
+    <string name="donuts" translatable="false">glazed and spinkled with candy</string>
+    <string name="froyo" translatable="false">FroYo là sữa chua đông lạnh tự phục vụ cao cấp</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+</resources>
